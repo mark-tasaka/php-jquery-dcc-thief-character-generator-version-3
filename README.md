@@ -3,6 +3,13 @@ Designed with PHP and jQuery, the Dungeon Crawl Classics Thief Character Generat
 
 _________________________________________
 
+
+
+Update 1.01: 2020-12-22
+
+Updates to dccThief.php and thief.css.  New character sheet (thief.png) added.
+
+
 Initial Commit: 2020-12-21
 
 The initial commit of the Dungeon Crawl Classics Thief Character Generator Version 3.
