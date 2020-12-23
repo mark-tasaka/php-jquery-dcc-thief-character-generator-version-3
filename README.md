@@ -5,6 +5,11 @@ _________________________________________
 
 
 
+Update 1.02: 2020-12-23
+
+Updated files: dccThief.php, armour.php, gear.php and weapons.php.  New file added: xp.php.
+
+
 Update 1.01: 2020-12-22
 
 Updates to dccThief.php and thief.css.  New character sheet (thief.png) added.
