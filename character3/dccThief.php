@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Dungeon Crawl Classics Thief Character Generator</title>
+<title>Dungeon Crawl Classics Thief Character Generator Version 3</title>
  
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     
@@ -14,7 +14,6 @@
 		
 
 	<link rel="stylesheet" type="text/css" href="css/thief.css">
-	<link rel="stylesheet" type="text/css" href="css/thief_post.css">
     
     
     <script type="text/javascript" src="./js/dieRoll.js"></script>
