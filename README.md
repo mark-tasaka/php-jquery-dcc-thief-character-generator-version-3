@@ -2,7 +2,7 @@
 Designed with PHP and jQuery, the Dungeon Crawl Classics Thief Character Generator Version 3 randomly generates a character. The generator allows for the user to input different parameters to determine the character's level, equipment, weapons, alignment, etc.
 _________________________________________
 
-Live versions of the Dungeon Crawl Classics (DCC) Warrior Character Generator Version 3 are found at:
+Live versions of the Dungeon Crawl Classics (DCC) Thief Character Generator Version 3 are found at:
 
 Dwarves, Warriors and Mighty Deeds: A Dungeon Crawl Classics Fan Site:
 
